@@ -1,0 +1,27 @@
+.container{
+    position: relative;
+    width: 500px;
+    height:500px;
+    background-color: cornflowerblue;
+}
+    .image2{
+        position: relative;
+        bottom: 30.64%;
+        left: 50%;
+    }
+    .image3{
+        position: relative;
+        bottom: 31.5%;
+    
+    }
+    .image4{
+        position: relative;
+        bottom: 102.2%;
+        left: 40%;
+    }
+    .image5{
+        position: relative;
+        bottom: 103.08% ;
+        left: 40%;
+    }
+    
